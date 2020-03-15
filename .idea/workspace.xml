@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b77991d-6d6d-4429-8cf9-2c12831d8222" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/engine/StoryCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/engine/json/JsonEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONPointerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONPropertyIgnore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONPropertyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONStringer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONTokener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/json/JSONWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/engine/model/StoryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/model/StoryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584249993023</updated>
-      <workItem from="1584249996192" duration="4288000" />
+      <workItem from="1584249996192" duration="4577000" />
     </task>
     <task id="LOCAL-00001" summary="Variants">
       <created>1584251225197</created>
@@ -74,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584251225197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="engine">
+      <created>1584254302452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584254302452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,20 +74,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Variants" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variants" />
+    <MESSAGE value="engine" />
+    <option name="LAST_COMMIT_MESSAGE" value="engine" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1584253000782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584253000782" />
-    <state x="492" y="114" key="CommitChangelistDialog2" timestamp="1584251224655">
+    <state x="492" y="114" key="CommitChangelistDialog2" timestamp="1584254314433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="492" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584251224655" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584251228744">
+    <state x="492" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584254314433" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584254619841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584251228744" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584254619841" />
   </component>
 </project>
