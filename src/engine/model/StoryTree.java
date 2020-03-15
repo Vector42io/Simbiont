@@ -5,8 +5,17 @@ public class StoryTree {
     private String name;
     private StoryTree left;
     private StoryTree right;
+    private StoryTree parent;
 
     public StoryTree() { }
+
+    public StoryTree getParent() {
+        return parent;
+    }
+
+    public void setParent(StoryTree parent) {
+        this.parent = parent;
+    }
 
     public Variants getVariants() {
         if (hasVariants()){
@@ -50,5 +59,14 @@ public class StoryTree {
 
     public void setRight(StoryTree right) {
         this.right = right;
+    }
+
+    public String toJson() {
+        return "{" +
+                "\"body\":\"" + body + '"' +
+                ", \"name\":\"" + name + '"' +
+                ", \"left\":" + (left != null ? left.toJson() : "" ) +
+                ", \"right\":" + (right !=  null ? right.toJson() : "") +
+                '}';
     }
 }
