@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b77991d-6d6d-4429-8cf9-2c12831d8222" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ui/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/Startable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -50,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584249993023</updated>
-      <workItem from="1584249996192" duration="4577000" />
+      <workItem from="1584249996192" duration="5510000" />
     </task>
     <task id="LOCAL-00001" summary="Variants">
       <created>1584251225197</created>
@@ -66,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584254302452</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="почти рабочий вариант нужны тесты">
+      <created>1584254650731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584254650731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,17 +86,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Variants" />
     <MESSAGE value="engine" />
-    <option name="LAST_COMMIT_MESSAGE" value="engine" />
+    <MESSAGE value="почти рабочий вариант нужны тесты" />
+    <option name="LAST_COMMIT_MESSAGE" value="почти рабочий вариант нужны тесты" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1584253000782">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1584255228466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584253000782" />
-    <state x="492" y="114" key="CommitChangelistDialog2" timestamp="1584254314433">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584255228466" />
+    <state x="492" y="114" key="CommitChangelistDialog2" timestamp="1584254650320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="492" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584254314433" />
+    <state x="492" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584254650320" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584254619841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
