@@ -1,7 +1,7 @@
-package engine.json;
+package engine;
 
 import engine.model.StoryTree;
-import org.json.JSONObject;
+import engine.org.json.JSONObject;
 
 public class JsonEngine {
     public static StoryTree getStoryFromJson(JSONObject object, StoryTree parent){

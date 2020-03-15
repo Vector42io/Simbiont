@@ -1,4 +1,4 @@
-JSON in Java [package org.json]
+JSON in Java [package engine.org.json]
 ===============================
 
 [![Maven Central](https://img.shields.io/maven-central/v/org.json/json.svg)](https://mvnrepository.com/artifact/org.json/json)
@@ -143,6 +143,6 @@ as of 29 July, 2015.
 ~~~
 
 
-JSON-java releases can be found by searching the Maven repository for groupId "org.json"
+JSON-java releases can be found by searching the Maven repository for groupId "engine.org.json"
 and artifactId "json". For example:
-https://search.maven.org/search?q=g:org.json%20AND%20a:json&core=gav
+https://search.maven.org/search?q=g:engine.org.json%20AND%20a:json&core=gav

@@ -2,10 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b77991d-6d6d-4429-8cf9-2c12831d8222" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ui/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/Startable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/StoryTeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/StoryTeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine/json/JsonEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/JsonEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/CDL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/CDL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/Cookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/CookieList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/CookieList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/HTTP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/HTTP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/HTTPTokener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/HTTPTokener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONPointerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONPointerException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONPropertyIgnore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONPropertyIgnore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONPropertyName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONPropertyName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONStringer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONStringer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONTokener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONTokener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/JSONWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/JSONWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/Property.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/Property.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/XML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/XML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/XMLParserConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/XMLParserConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/json/XMLTokener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine/org/json/XMLTokener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584249993023</updated>
-      <workItem from="1584249996192" duration="5510000" />
+      <workItem from="1584249996192" duration="6992000" />
     </task>
     <task id="LOCAL-00001" summary="Variants">
       <created>1584251225197</created>
@@ -77,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584254650731</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="готово для имплементации интерфейса">
+      <created>1584255536640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584255536640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,20 +117,21 @@
     <MESSAGE value="Variants" />
     <MESSAGE value="engine" />
     <MESSAGE value="почти рабочий вариант нужны тесты" />
-    <option name="LAST_COMMIT_MESSAGE" value="почти рабочий вариант нужны тесты" />
+    <MESSAGE value="готово для имплементации интерфейса" />
+    <option name="LAST_COMMIT_MESSAGE" value="готово для имплементации интерфейса" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1584255228466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584255228466" />
-    <state x="492" y="114" key="CommitChangelistDialog2" timestamp="1584254650320">
+    <state x="492" y="114" key="CommitChangelistDialog2" timestamp="1584255536145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="492" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584254650320" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584254619841">
+    <state x="492" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584255536145" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584255543252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584254619841" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584255543252" />
   </component>
 </project>
