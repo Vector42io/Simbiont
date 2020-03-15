@@ -1,4 +1,4 @@
-package model;
+package engine.model;
 
 public class StoryTree {
     private String body;
@@ -6,7 +6,18 @@ public class StoryTree {
     private StoryTree left;
     private StoryTree right;
 
-    public StoryTree() {
+    public StoryTree() { }
+
+    public Variants getVariants() {
+        if (hasVariants()){
+            return new Variants(left.getName(), right.getName());
+        }else {
+            return null;
+        }
+    }
+
+    public boolean hasVariants(){
+        return left != null && right != null;
     }
 
     public String getBody() {
